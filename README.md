@@ -30,8 +30,8 @@ If you need:
 - 🎨 A modern, responsive frontend  
 …then let’s work together!
 
-📩 **Email:** [your-email@example.com]  
-💼 **LinkedIn:** [Your LinkedIn Profile]  
+📩 **Email:** nikultaka@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/nikul-panchal-90795b34/ 
 💳 **GitHub Sponsors:** [https://github.com/sponsors/nikultaka](https://github.com/sponsors/nikultaka)
 
 ---
