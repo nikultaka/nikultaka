@@ -31,7 +31,7 @@ If you need:
 …then let’s work together!
 
 📩 **Email:** nikultaka@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/nikul-panchal-90795b34/ 
+💼 **LinkedIn:** [https://www.linkedin.com/in/nikul-panchal-90795b34] (https://www.linkedin.com/in/nikul-panchal-90795b34) 
 💳 **GitHub Sponsors:** [https://github.com/sponsors/nikultaka](https://github.com/sponsors/nikultaka)
 
 ---
