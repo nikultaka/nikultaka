@@ -36,6 +36,17 @@ If you need:
 
 ---
 
+## 💖 Sponsors
+
+Thanks to my GitHub Sponsors for supporting this project! 🙌  
+
+- [@john-bampton](https://github.com/john-bampton) – Thank you for your support! 🚀  
+
+---
+
+Want to support my work? Become a [sponsor here](https://github.com/sponsors/nikultaka).
+
+
 ## ❤️ Support My Work
 If you like my open-source contributions, consider sponsoring me:  
 [![Sponsor Me](https://img.shields.io/badge/Sponsor%20on-GitHub-%23ff69b4)](https://github.com/sponsors/nikultaka)
