@@ -65,8 +65,3 @@ Your support helps me dedicate more time to building free tools and sharing know
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![Nikul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikultaka&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikultaka&layout=compact&theme=radical)
