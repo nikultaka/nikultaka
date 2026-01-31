@@ -6,7 +6,7 @@
 ---
 
 ## 🔹 About Me
-- 14+ years of experience in **PHP, React.js, Node.js, Golang, and AWS**.
+- 15+ years of experience in **PHP, React.js, Node.js, Golang, and AWS**.
 - Strong background in **database design**, **API development**, and **cloud infrastructure**.
 - Passionate about building clean, maintainable, and efficient code.
 - Contributor to open-source projects and always exploring new technologies.
